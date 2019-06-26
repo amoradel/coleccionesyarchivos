@@ -1,0 +1,13 @@
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\bin\Debug\SakilaProj.exe.config
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\bin\Debug\SakilaProj.exe
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\bin\Debug\SakilaProj.pdb
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\bin\Debug\SakilaProj.xml
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.vbprojAssemblyReference.cache
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.FrmGestionCliente.resources
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.Resources.resources
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.vbproj.GenerateResource.cache
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.vbproj.CoreCompileInputs.cache
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.exe
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.xml
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.pdb
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.ArchivoClientes.resources
