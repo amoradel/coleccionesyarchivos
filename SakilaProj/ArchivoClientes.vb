@@ -68,7 +68,20 @@ Public Class ArchivoClientes
     End Sub
 
     Private Sub btnDescargar_Click(sender As Object, e As EventArgs) Handles btnDescargar.Click
-        Dim Doc As New XmlDocument, Nodo As XmlNode
+        Dim Doc As New XmlDocument, id, first_name As XmlNode
+
+        id = Doc.CreateElement("Clientes")
+        first_name = Doc.CreateElement("Clientes")
+
+        Doc.AppendChild(id)
+        id = Doc.CreateElement("id")
+        id.InnerText = "0105199300425"
+        Doc.DocumentElement.AppendChild(id)
+
+        first_name = Doc.CreateElement("first_name")
+        first_name.InnerText = "0105199300425"
+        Doc.DocumentElement.AppendChild(first_name)
+
 
         Doc.Save(Application.StartupPath & "\datos.xml")
     End Sub
