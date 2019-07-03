@@ -11,3 +11,5 @@ C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debu
 C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.xml
 C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.pdb
 C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.ArchivoClientes.resources
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.Graficas.resources
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.NombreColumnas.resources

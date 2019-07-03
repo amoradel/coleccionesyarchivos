@@ -29,6 +29,13 @@ SakilaProj
  <param name="misclientes"></param>
  <remarks></remarks>
 </member>
+<member name="M:SakilaProj.ColeccionDatos.Add(SakilaProj.Datos)">
+ <summary>
+ Adhiere datos a la coleccion Datos
+ </summary>
+ <param name="misclientes"></param>
+ <remarks></remarks>
+</member>
 <member name="M:SakilaProj.FrmGestionCliente.LoadHeaderDGV">
  <summary>
  Se cargan los encabezados del DataGridView
