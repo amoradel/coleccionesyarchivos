@@ -1,4 +1,5 @@
 ﻿Imports System.Windows.Forms.DataVisualization.Charting
+Imports System.ComponentModel
 
 Public Class Graficas
     Private Sub btnClose_Click(sender As Object, e As EventArgs) Handles btnClose.Click
@@ -15,6 +16,10 @@ Public Class Graficas
         If DataGridView1.Rows.Count = 1 Then
             MessageBox.Show("Debe ingresar datos en la grilla", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
         Else
+
+            DataGridView1.Sort(DataGridView1.Columns(0), ListSortDirection.Ascending)
+
+
             micolecciondatos = New ColeccionDatos
 
             For FILA = 0 To DataGridView1.Rows.Count - 2
