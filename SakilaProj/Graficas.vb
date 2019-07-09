@@ -69,4 +69,6 @@ Public Class Graficas
         RecorreDGV()
         cargarGrafica()
     End Sub
+
+
 End Class
