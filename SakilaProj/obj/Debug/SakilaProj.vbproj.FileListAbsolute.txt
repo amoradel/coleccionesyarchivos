@@ -13,3 +13,6 @@ C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debu
 C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.ArchivoClientes.resources
 C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.Graficas.resources
 C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.NombreColumnas.resources
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.FormularioPrincipal.resources
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.AboutBox1.resources
+C:\Users\Anibal Moradel\Code\VisualStudioProjects\SakilaProj\SakilaProj\obj\Debug\SakilaProj.Estadisticas.resources

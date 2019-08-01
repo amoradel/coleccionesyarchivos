@@ -10,7 +10,7 @@
         micoleccionclientes = New ColeccionClientes
         misfunciones = New Funciones
         Try
-            Application.Run(New Graficas)
+            Application.Run(New FormularioPrincipal)
         Catch ex As Exception
             MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try

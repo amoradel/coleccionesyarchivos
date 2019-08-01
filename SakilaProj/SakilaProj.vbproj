@@ -86,6 +86,24 @@
     <Compile Include="Clases\Datos.vb" />
     <Compile Include="Clases\Funciones.vb" />
     <Compile Include="Clases\Inicio.vb" />
+    <Compile Include="Examen\AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Examen\AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examen\Estadisticas.Designer.vb">
+      <DependentUpon>Estadisticas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Examen\Estadisticas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examen\FormularioPrincipal.Designer.vb">
+      <DependentUpon>FormularioPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Examen\FormularioPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FrmGestionCliente.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -124,6 +142,15 @@
   <ItemGroup>
     <EmbeddedResource Include="ArchivoClientes.resx">
       <DependentUpon>ArchivoClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen\AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen\Estadisticas.resx">
+      <DependentUpon>Estadisticas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen\FormularioPrincipal.resx">
+      <DependentUpon>FormularioPrincipal.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmGestionCliente.resx">
       <DependentUpon>FrmGestionCliente.vb</DependentUpon>
